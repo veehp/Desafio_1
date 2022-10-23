@@ -1,4 +1,4 @@
-# Desafio_1
+# Desafio de Projeto sobre Git/Github da DIO
 Atividades de Ambientação no Beecrowd
 
 # Links uteis
